@@ -1,7 +1,7 @@
-package com.inclassteach.crud.done.controller;
+package com.hibernate.inclass.inclasshibernatelesson.controller;
 
-import com.inclassteach.crud.done.entity.Student;
-import com.inclassteach.crud.done.service.StudentService;
+import com.hibernate.inclass.inclasshibernatelesson.entity.Student;
+import com.hibernate.inclass.inclasshibernatelesson.service.StudentService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
